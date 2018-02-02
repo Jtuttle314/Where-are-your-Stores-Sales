@@ -1,4 +1,4 @@
-### Project Name: Dude Where’s my $/Where Are Your Sales/ Pin Stores?
+### Project Name: Where Are Your Stores/ Sales?
 
 ### Team Members: 	
 Andy Oh  
@@ -24,3 +24,4 @@ HTML/CSS/Javascript
 MapBox  
 Flask  
 GitHub
+Python
