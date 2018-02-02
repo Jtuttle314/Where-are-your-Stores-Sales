@@ -1,4 +1,4 @@
-### Project Name: Where Are Your Stores/ Sales?
+### Project Name: [Where Are Your Stores/ Sales?](https://jtuttle314.github.io/Where-are-your-Stores-or-Sales/app)
 
 ### Team Members: 	
 Andy Oh  
