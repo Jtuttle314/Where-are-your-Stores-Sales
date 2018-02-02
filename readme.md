@@ -1,4 +1,4 @@
-### Project Name: [Where Are Your Stores/ Sales?](https://jtuttle314.github.io/Where-are-your-Stores-or-Sales/blob/master/templates/index.html)
+### Project Name: [Where Are Your Stores/ Sales?](https://github.com/Jtuttle314/Where-are-your-Stores-or-Sales/blob/master/templates/index.html)
 
 ### Team Members: 	
 Andy Oh  
