@@ -1,5 +1,3 @@
-### Team Name: Graphful of Giggles
-
 ### Project Name: Dude Where’s my $/Where Are Your Sales/ Pin Stores?
 
 ### Team Members: 	
@@ -25,11 +23,4 @@ The challenge is acquiring accurate/ current population data for free and compar
 HTML/CSS/Javascript  
 MapBox  
 Flask  
-GitHub  
-
-### Resource: 
-
-
-### Project Links: 
-GitHub - https://github.com/TurnpikeWarrior/Project_DissolvableData  
-Powerpoint - https://docs.google.com/presentation/d/1qSyQyPRcpi-FveYDJY9jRCPjtSk6A0la5ENRUKsIark/edit?usp=sharing
+GitHub
