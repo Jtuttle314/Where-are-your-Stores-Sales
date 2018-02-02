@@ -1,4 +1,4 @@
-### Project Name: [Where Are Your Stores/ Sales?](https://jtuttle314.github.io/Where-are-your-Stores-or-Sales/)
+### Project Name: [Where Are Your Stores/ Sales?](https://waysdashboard.herokuapp.com/)
 
 ### Team Members: 	
 Andy Oh  
